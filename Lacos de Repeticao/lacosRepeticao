@@ -1,0 +1,11 @@
+for (inicialização; condição; atualização) {
+  // código a ser repetido enquanto a condição for verdadeira
+}
+
+while (condição) {
+  // código a ser repetido enquanto a condição for verdadeira
+}
+
+do {
+  // código a ser repetido pelo menos uma vez e enquanto a condição for verdadeira
+} while (condição);

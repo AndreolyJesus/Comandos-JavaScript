@@ -1,0 +1,4 @@
+function nomeDaFuncao(parâmetro1, parâmetro2) {
+  // código a ser executado quando a função for chamada
+  return valor;
+}
