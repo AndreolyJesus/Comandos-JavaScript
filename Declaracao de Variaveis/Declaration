@@ -1,0 +1,3 @@
+var nomeDaVariavel = valor;
+let nomeDaVariavel = valor;
+const nomeDaVariavel = valor;
