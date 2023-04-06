@@ -1,0 +1,8 @@
+/*
+= (atribuição)
++= (adição e atribuição)
+-= (subtração e atribuição)
+*= (multiplicação e atribuição)
+/= (divisão e atribuição)
+%= (resto da divisão e atribuição)
+*/
