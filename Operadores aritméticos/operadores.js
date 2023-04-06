@@ -1,3 +1,4 @@
+/*
 + (adição)
 - (subtração)
 * (multiplicação)
@@ -5,3 +6,4 @@
 % (resto da divisão)
 ++ (incremento)
 -- (decremento)
+*/
