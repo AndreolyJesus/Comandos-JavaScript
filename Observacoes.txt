@@ -1,0 +1,34 @@
+********************************************************************************************************
+
+--> Variáveis: permitem armazenar e manipular dados.
+
+--> Operadores: permitem realizar operações matemáticas e de comparação em dados.
+
+--> Estruturas de controle de fluxo: permitem controlar a ordem de execução do código com base em condições.
+
+--> Funções: permitem agrupar blocos de código para serem reutilizados em várias partes do programa.
+
+--> Objetos: permitem representar dados complexos e estruturados, como objetos do mundo real.
+
+--> Arrays: permitem armazenar e manipular conjuntos de dados.
+
+--> Métodos: permitem que objetos executem ações ou retornem informações.
+
+--> Eventos: permitem que os usuários interajam com o aplicativo web, acionando respostas específicas do código.
+
+--> AJAX: permite a atualização de conteúdo da página sem recarregar a página inteira.
+
+--> Manipulação do DOM: permite a alteração do conteúdo da página HTML e CSS de forma dinâmica.
+
+------------------------------------------------------------------------------------------------------
+
+* Em JavaScript, existem três principais estruturas de controle de fluxo:
+
+--> Declarações condicionais: permitem executar blocos de código com base em uma condição. 
+As principais declarações condicionais em JavaScript são "if", "else", "else if" e "switch".
+
+--> Loops: permitem executar repetidamente um bloco de código até que uma condição seja satisfeita. 
+As principais estruturas de loop em JavaScript são "for", "while" e "do...while".
+
+--> Exceções: permitem lidar com erros ou exceções que podem ocorrer durante a execução do código. 
+A declaração "try...catch" é a principal estrutura de exceção em JavaScript.
